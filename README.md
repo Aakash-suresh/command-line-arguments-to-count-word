@@ -34,6 +34,7 @@ print("Number of words={}".format(count))
 ![output 1](AAA.png)
 
 ![output 2](AA.png)
+
 ### OUTPUT:
 ![output 3](A.png)
 ## RESULT:
