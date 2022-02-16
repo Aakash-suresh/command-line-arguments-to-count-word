@@ -36,6 +36,6 @@ print("Number of words={}".format(count))
 ![output 2](AA.png)
 
 ### OUTPUT:
-![output 3](A.png)
+![output 3](a.png)
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
