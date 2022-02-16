@@ -32,6 +32,7 @@ print("Number of words={}".format(count))
 ```
 ### Program Images:
 ![output 1](AAA.png)
+
 ![output 2](AA.png)
 ### OUTPUT:
 ![output](A.png)
