@@ -30,7 +30,10 @@ with open(sys.argv[1],'r') as f:
         
 print("Number of words={}".format(count))
 ```
+### Program Images:
+![output 1](AAA.png)
+![output 2](AA.png)
 ### OUTPUT:
-![output](a.png)
+![output](A.png)
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
